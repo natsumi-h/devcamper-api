@@ -2,6 +2,16 @@
 
 > Backend API for DevCamper application, which is a bootcamp directory website
 
+## Production Site
+https://devcamper-front.vercel.app/
+
+## Technologies
+* Node.js
+* Express
+* MongoDB
+* JWT
+
+
 ## Usage
 
 Rename "config/config.env.env" to "config/congit.env" and update the values/settings to your own
